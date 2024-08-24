@@ -26,7 +26,7 @@ The Stock Price Prediction Model utilizes LSTM networks to forecast future stock
    git clone https://github.com/codebybishwa/Stock-Price-Prediction
 
 2. Save the Keras Model Locally: Before running the web app, ensure that you have trained and saved the Keras model.
-  - Go to Stock_Price_Prediction code (or copy the code) and run it locally and ensure to save the keras model (model.save('Latest_stock_price_model.keras'))
+  - Go to Stock_Price_Prediction.ipynb code (or copy the code) and run it locally and ensure to save the keras model (model.save('Latest_stock_price_model.keras'))
 
 4. Install Required Libraries:
    cd Stock-Price-Prediction
