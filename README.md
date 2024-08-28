@@ -38,14 +38,18 @@ The Stock Price Prediction Model utilizes LSTM networks to forecast future stock
 
 ## Microsoft Stock Price Prediction (Sample Usage)
 - Stock Data
-  ![image](https://github.com/user-attachments/assets/d33756b1-3c31-47d8-b251-cc3df9ef93fc)
+  ![image](https://github.com/user-attachments/assets/49b9a202-9c08-4dd0-ac6a-86ed271509d9)
 
-- Original Close Price and Moving average for 100 days
-  ![image](https://github.com/user-attachments/assets/fbf6cdd2-9379-4a6f-9ed8-60027053b8fa)
+
+- Original Close Price and Moving averages
+  ![image](https://github.com/user-attachments/assets/df70028b-20ec-45f2-9338-7505cd80ed5b)
+
 
 - Original vs Predicted Values
-  ![image](https://github.com/user-attachments/assets/48ebae61-4f8a-417f-9d6f-d746792272d4)
-  ![image](https://github.com/user-attachments/assets/40502e72-1037-4c2c-bf0c-4f76bdcd93d9)
+ ![image](https://github.com/user-attachments/assets/643f5c6f-9170-4b81-a77c-0f5ff85fb05d)
+
+  ![image](https://github.com/user-attachments/assets/756af5cf-8155-41c0-b538-48cf4328b9db)
+
 
 
 
